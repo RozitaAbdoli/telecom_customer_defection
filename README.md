@@ -12,3 +12,12 @@ It costs more for businesses such as telecommunication companies to acquire new 
 ---
 ![alt text](https://github.com/RozitaAbdoli/telecom_customer_defection/blob/0e3f15958e2cee8e7f03de3772e1bcb128ab749a/img/histograms.png)
 ---
+![alt text](https://github.com/RozitaAbdoli/telecom_customer_defection/blob/56210097d1f20ee09cb6597188f29fa252e116b5/img/top_4_features.png)
+
+Based on Figure 6 it is observed that:
+* Customers who used 260 minutes or more during daytime were more likely to churn. Conversely, the number of customers that churned is considerably lower for those with 160 to 200 day minutes.
+* Customers were more likely to churn if they made 4 or more calls to the customer service.
+* Customers that had an international plan were more likely to churn.
+* Customers that did not have a voicemail plan were more likely to churn.
+---
+
