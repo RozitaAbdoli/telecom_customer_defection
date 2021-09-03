@@ -10,3 +10,5 @@ It costs more for businesses such as telecommunication companies to acquire new 
 ---
 ![alt text](https://github.com/RozitaAbdoli/telecom_customer_defection/blob/75756c250bfa6cd8ff4e91086a4c139c5e3b39da/img/box_plots.png)
 ---
+![alt text](https://github.com/RozitaAbdoli/telecom_customer_defection/blob/0e3f15958e2cee8e7f03de3772e1bcb128ab749a/img/histograms.png)
+---
